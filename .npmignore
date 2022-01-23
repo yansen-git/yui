@@ -1,0 +1,16 @@
+examples/
+node_modules/
+public/
+packages/
+.babelrc
+.browserslistrc
+.eslintrc.js
+.npmignore
+dist/
+package-lock.json
+.gitignore
+.prettierrc.js
+babel.config.js
+rollup.config.js
+vue.config.js
+tsconfig.json
